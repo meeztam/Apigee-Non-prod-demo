@@ -15,7 +15,7 @@
 		<relativePath>../shared-pom.xml</relativePath>
 	</parent>
 
-	<modelVersion>4.0.0</modelVersion>
+	<modelVersion>1.0.0</modelVersion>
 	<groupId>apigee</groupId>
 	<artifactId>helloworld</artifactId>
 	<version>1.0</version>
