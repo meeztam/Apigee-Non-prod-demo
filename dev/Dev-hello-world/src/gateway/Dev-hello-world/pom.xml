@@ -15,10 +15,10 @@
 		<relativePath>../shared-pom.xml</relativePath>
 	</parent>
 
-	<modelVersion>1.0.0</modelVersion>
+	<modelVersion>4.0.0</modelVersion>
 	<groupId>apigee</groupId>
-	<artifactId>helloworld</artifactId>
+	<artifactId>mock</artifactId>
 	<version>1.0</version>
-	<name>Dev-hello-world</name>
+	<name>Mock-v1</name>
 	<packaging>pom</packaging>
 </project>
