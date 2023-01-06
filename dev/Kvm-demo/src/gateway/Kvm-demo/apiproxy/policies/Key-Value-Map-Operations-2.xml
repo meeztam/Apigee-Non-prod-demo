@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations continueOnError="false" enabled="true" name="Key-Value-Map-Operations-2" mapIdentifier="Kvm-Value">
+    <Get assignTo="request.queryparam.param" index="1">
+        <Key>
+            <Parameter>userName</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

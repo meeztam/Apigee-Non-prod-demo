@@ -1,0 +1,16 @@
+<APIProxy revision="4" name="Kvm-demo">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1673006160013</CreatedAt>
+    <LastModifiedAt>1673006160013</LastModifiedAt>
+    <BasePaths>/kvm-demo</BasePaths>
+    <Policies>
+        <Policy>Key-Value-Map-Operations-2</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
