@@ -17,7 +17,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>apigee</groupId>
-	<artifactId>helloworld</artifactId>
+	<artifactId>Devhello</artifactId>
 	<version>1.0</version>
 	<name>Dev-hello-world</name>
 	<packaging>pom</packaging>
