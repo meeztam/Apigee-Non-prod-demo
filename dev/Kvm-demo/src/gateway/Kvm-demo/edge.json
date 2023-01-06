@@ -1,0 +1,22 @@
+{
+   "version":"1.0",
+   "envConfig":{
+      "test":{
+         "kvms":[
+            {
+               "name":"backend_account_config",
+               "entry":[
+                  {
+                     "name":"COMPANY",
+                     "value":"example.com"
+                  },
+                  {
+                     "name":"PREFIX",
+                     "value":"EXMPL"
+                  }
+               ]
+            }
+         ]
+      }
+   }
+}
