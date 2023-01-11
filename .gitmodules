@@ -1,0 +1,3 @@
+[submodule "apigee-maven-test"]
+	path = apigee-maven-test
+	url = https://github.com/meeztam/apigee-maven-test.git
